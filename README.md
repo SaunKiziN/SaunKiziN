@@ -1,9 +1,3 @@
-<!-- Navbar GIF -->
-<div align="center">
-  <img src="https://imgur.com/a/5Nu9JJM" width="100%" style="max-width: 800px;" alt="Navbar GIF">
-</div>
-
-
 ---
 
 # 🎭 **SaunK | Digital Hustler**  
@@ -80,8 +74,3 @@
 ## 🏴 **Final Words**  
 *"Código sem café é como um beat sem 808s."* 💻☕  
 Feito com **raiva, café e trap** no fone 🎧🔥  
-
-<!-- footer -->
-<p align="center">
-  <img src="https://imgur.com/a/5Nu9JJM" width="100%">
-</p>
