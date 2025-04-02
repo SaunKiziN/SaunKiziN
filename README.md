@@ -55,7 +55,7 @@
   <a href="https://www.tiktok.com/@samlxz" target="_blank">
     <img src="https://img.shields.io/badge/-@samlxz-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
-  <a href="https://open.spotify.com/user/samlxz](https://open.spotify.com/user/21sgqc2nfvp3xdm7gssmrwzwy" target="_blank">
+  <a href="https://open.spotify.com/user/samlxz](https://open.spotify.com/user/21sgqc2nfvp3xdm7gssmrwzwy](https://open.spotify.com/user/21sgqc2nfvp3xdm7gssmrwzwy?si=69598a736f034e58" target="_blank">
     <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
