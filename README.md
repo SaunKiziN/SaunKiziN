@@ -1,6 +1,6 @@
 <!-- Banner Darkzera -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Zcnc63PZ13SA1JZ8cG/giphy.gif" width="800">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="800">
 </p>
 
 ---
@@ -21,11 +21,11 @@
 
 ---
 
-## 🕶️ **GitHub Energy**  
+## 🕶️ **GitHub Energy**
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samlxz&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=samlxz&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <!-- Most Used Languages -->
