@@ -1,14 +1,9 @@
-<!-- navbar -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/KniuW0NFjvKY3Ge7WX/giphy.gif" width="100%">
-</p>
+<!-- Navbar GIF -->
+<div align="center">
+  <img src="https://media4.giphy.com/media/KniuW0NFjvKY3Ge7WX/giphy.gif" width="100%" style="max-width: 800px;" alt="Navbar GIF">
+</div>
 
 
-
-███████╗ █████╗ ██╗ ██╗███╗ ██╗██╗ ██╗ ██╔════╝██╔══██╗██║ ██║████╗ ██║██║ ██║ █████╗ ███████║██║ ██║██╔██╗ ██║███████║ ██╔══╝ ██╔══██║██║ ██║██║╚██╗██║██╔══██║ ██║ ██║ ██║╚██████╔╝██║ ╚████║██║ ██║ ╚═╝ ╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═══╝╚═╝ ╚═╝
-                                                                                          
-
-                                                                     
 ---
 
 # 🎭 **SaunK | Digital Hustler**  
@@ -48,6 +43,9 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500">
 </p>
+
+💀 **"Code Hard or Die Trying"**  
+💻 *Digital Warfare | Hustle & Grind*
 
 > ⚠️ **Warning:** Este perfil só funciona no **modo escuro**.  
 > Se estiver no **modo claro**, você tá fazendo errado.
