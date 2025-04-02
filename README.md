@@ -44,21 +44,8 @@
 
 ---
 
-## 🌍 **Connect with Me**  
-<p align="center">
-  <a href="https://instagram.com/samlxz" target="_blank">
-    <img src="https://img.shields.io/badge/-@samlxz-FF0066?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.tiktok.com/@SaunKiziN" target="_blank">
-    <img src="https://img.shields.io/badge/-@SaunKiziN-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
-  <a href="https://www.tiktok.com/@samlxz" target="_blank">
-    <img src="https://img.shields.io/badge/-@samlxz-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
-  <a href="https://open.spotify.com/user/21sgqc2nfvp3xdm7gssmrwzwy?si=69598a736f034e58" target="_blank">
-    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
-  </a>
-</p>
+🌍 Find Me Everywhere
+<p align="center"> <a href="https://beacons.ai/saunkizin" target="_blank"> <img src="https://img.shields.io/badge/-BEACONS-000000?style=for-the-badge&logo=linktree&logoColor=white"> </a> </p>
 
 ---
 
