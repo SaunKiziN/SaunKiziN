@@ -1,8 +1,21 @@
 <!-- navbar -->
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk1NzRyb3FoazVlOHIxZWRtZmRxMWN5aWxrZmtnYjU5OWJmaWIwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KniuW0NFjvKY3Ge7WX/giphy.gif" style="width: 100%; max-width: 800px;" alt="Navbar GIF">
-</div>
+<p align="center">
+  <img src="https://media4.giphy.com/media/KniuW0NFjvKY3Ge7WX/giphy.gif" width="100%">
+</p>
 
+
+
+   ▄████████     ▄████████  ███    █▄   ███▄▄▄▄       ▄█   ▄█▄   ▄█    ▄███████▄    ▄█   ███▄▄▄▄   
+  ███    ███    ███    ███  ███    ███  ███▀▀▀██▄    ███ ▄███▀  ███   ██▀     ▄██  ███   ███▀▀▀██▄ 
+  ███    █▀     ███    ███  ███    ███  ███   ███    ███▐██▀    ███▌        ▄███▀  ███▌  ███   ███ 
+  ███           ███    ███  ███    ███  ███   ███   ▄█████▀     ███▌   ▀█▀▄███▀▄▄  ███▌  ███   ███ 
+▀███████████  ▀███████████  ███    ███  ███   ███  ▀▀█████▄     ███▌    ▄███▀   ▀  ███▌  ███   ███ 
+         ███    ███    ███  ███    ███  ███   ███    ███▐██▄    ███   ▄███▀        ███   ███   ███ 
+   ▄█    ███    ███    ███  ███    ███  ███   ███    ███ ▀███▄  ███   ███▄     ▄█  ███   ███   ███ 
+ ▄████████▀     ███    █▀   ████████▀    ▀█   █▀     ███   ▀█▀  █▀     ▀████████▀  █▀     ▀█   █▀  
+                                                                                          
+
+                                                                     
 ---
 
 # 🎭 **SaunK | Digital Hustler**  
@@ -13,38 +26,42 @@
 
 ---
 
-## 🔥 **Tech Skills**
-  
+## 🔥 **Tech Skills**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php,tailwind,nodejs,nextjs&theme=dark&perline=6">
 </p>
 
 ---
 
-## 🕶️ **GitHub Energy**
-
-<!-- Streak Stats -->
+## 🕶️ **GitHub Energy**  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SaunKiziN&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=SaunKiziN&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D">
 </p>
 
-<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaunKiziN&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaunKiziN&layout=compact&theme=vision-friendly-dark&hide_border=true">
 </p>
 
 ---
 
-## 🎥 **Featured Work**
-  
+## 🎥 **Featured Work**  
 🚀 **Projeto Sinistro:** [Nome + Link](https://)  
 🎨 **UI Destruidora:** [Nome + Link](https://)  
 🔥 **Código Open Source:** [Nome + Link](https://)  
 
 ---
 
-## 🌍 **Connect with Me**
-  
+## 💀 **HACK THE SYSTEM**  
+<p align="center">
+  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500">
+</p>
+
+> ⚠️ **Warning:** Este perfil só funciona no **modo escuro**.  
+> Se estiver no **modo claro**, você tá fazendo errado.
+
+---
+
+## 🌍 **Connect with Me**  
 <p align="center">
   <a href="https://instagram.com/samlxz" target="_blank">
     <img src="https://img.shields.io/badge/-@samlxz-FF0066?style=for-the-badge&logo=instagram&logoColor=white">
@@ -56,24 +73,24 @@
     <img src="https://img.shields.io/badge/-@samlxz-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
   <a href="https://open.spotify.com/user/21sgqc2nfvp3xdm7gssmrwzwy?si=69598a736f034e58" target="_blank">
-    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 👾 **Visitors Counter**
-  
+## 👾 **Visitors Counter**  
 <p align="center">
   <img src="https://profile-counter.glitch.me/samlxz/count.svg">
 </p>
 
 ---
 
-## 🏴 **Final Words**
+## 🏴 **Final Words**  
 *"Código sem café é como um beat sem 808s."* 💻☕  
-Feito com **raiva, café e trap** no fone 🎧🔥
+Feito com **raiva, café e trap** no fone 🎧🔥  
 
 <!-- footer -->
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk1NzRyb3FoazVlOHIxZWRtZmRxMWN5aWxrZmtnYjU5OWJmaWIwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KniuW0NFjvKY3Ge7WX/giphy.gif" style="width: 100%; max-width: 800px;" alt="Navbar GIF">
-</div>
+<p align="center">
+  <img src="https://media4.giphy.com/media/KniuW0NFjvKY3Ge7WX/giphy.gif" width="100%">
+</p>
