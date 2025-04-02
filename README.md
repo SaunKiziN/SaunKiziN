@@ -1,6 +1,6 @@
 <!-- Navbar GIF -->
 <div align="center">
-  <img src="https://media4.giphy.com/media/KniuW0NFjvKY3Ge7WX/giphy.gif" width="100%" style="max-width: 800px;" alt="Navbar GIF">
+  <img src="https://imgur.com/a/5Nu9JJM" width="100%" style="max-width: 800px;" alt="Navbar GIF">
 </div>
 
 
@@ -83,5 +83,5 @@ Feito com **raiva, café e trap** no fone 🎧🔥
 
 <!-- footer -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/KniuW0NFjvKY3Ge7WX/giphy.gif" width="100%">
+  <img src="https://imgur.com/a/5Nu9JJM" width="100%">
 </p>
