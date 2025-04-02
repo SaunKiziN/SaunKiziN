@@ -41,7 +41,7 @@
 
 ## 💀 **HACK THE SYSTEM**  
 <p align="center">
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif?cid=ecf05e47lhcuk93pd8x4w3l63rp9xq1uyi7pb9lp0c8ilviv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500">
 </p>
 
 💀 **"Code Hard or Die Trying"**  
