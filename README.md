@@ -1,7 +1,7 @@
-<!-- Banner Darkzera -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT77XNlTId0WKcBXnG/giphy.gif" width="800">
-</p>
+<!-- navbar -->
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk1NzRyb3FoazVlOHIxZWRtZmRxMWN5aWxrZmtnYjU5OWJmaWIwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KniuW0NFjvKY3Ge7WX/giphy.gif" style="width: 100%; max-width: 800px;" alt="Navbar GIF">
+</div>
 
 ---
 
@@ -72,4 +72,9 @@
 
 ## 🏴 **Final Words**
 *"Código sem café é como um beat sem 808s."* 💻☕  
-Feito com **raiva, café e trap** no fone 🎧🔥  
+Feito com **raiva, café e trap** no fone 🎧🔥
+
+<!-- footer -->
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk1NzRyb3FoazVlOHIxZWRtZmRxMWN5aWxrZmtnYjU5OWJmaWIwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KniuW0NFjvKY3Ge7WX/giphy.gif" style="width: 100%; max-width: 800px;" alt="Navbar GIF">
+</div>
