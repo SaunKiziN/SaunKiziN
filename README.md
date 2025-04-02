@@ -1,6 +1,6 @@
 <!-- Banner Darkzera -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhzcDE0d2oxdGNybW1iMW55dHVxeXM0eGtzdm9wOXVha3I2OG1iciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77XNlTId0WKcBXnG/giphy.gif)" width="800">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhzcDE0d2oxdGNybW1iMW55dHVxeXM0eGtzdm9wOXVha3I2OG1iciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77XNlTId0WKcBXnG/giphy.gif" width="800">
 </p>
 
 ---
@@ -55,7 +55,7 @@
   <a href="https://www.tiktok.com/@samlxz" target="_blank">
     <img src="https://img.shields.io/badge/-@samlxz-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
-  <a href="[https://open.spotify.com/user/samlxz](https://open.spotify.com/user/21sgqc2nfvp3xdm7gssmrwzwy)" target="_blank">
+  <a href="https://open.spotify.com/user/samlxz](https://open.spotify.com/user/21sgqc2nfvp3xdm7gssmrwzwy" target="_blank">
     <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
