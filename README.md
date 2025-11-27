@@ -45,7 +45,11 @@
 ---
 
 🌍 Find Me Everywhere
-<p align="center"> <a href="[https://beacons.ai/saunkizin](https://saunk-void-linktree.vercel.app/)" target="_blank"> <img src="https://img.shields.io/badge/-BEACONS-000000?style=for-the-badge&logo=linktree&logoColor=white"> </a> </p>
+<p align="center"> 
+  <a href="https://saunk-void-linktree.vercel.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-SAUNK%20VOID-000000?style=for-the-badge&logo=linktree&logoColor=white"> 
+  </a> 
+</p>
 
 ---
 
