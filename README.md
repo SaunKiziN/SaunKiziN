@@ -34,7 +34,13 @@
 Interface minimalista P&B com vibe espacial, centralizando todos os links do meu universo.  
 🔗 [Live](https://saunk-void-linktree.vercel.app/) • 💾 [Repo](https://github.com/SaunKiziN/saunkVOID-linktree)
 
+🧩 **Login Screen (React)**  
+Tela de login minimalista com animações suaves e UI clean feita com React.  
+🔗 [Live](https://login-screen-react-saunkizins-projects.vercel.app/) • 💾 [Repo](https://github.com/SaunKiziN/login-screen-react)
 
+🌑 **Dark Ember — Tema para VS Code**  
+Tema escuro autoral com vibe espacial minimalista, ideal para quem codifica em modo noturno.  
+🛒 [Marketplace](https://marketplace.visualstudio.com/items?itemName=SaunKiziN.dark-ember) • 💾 [Repo](https://github.com/SaunKiziN/dark-ember-theme)
 
 ---
 
