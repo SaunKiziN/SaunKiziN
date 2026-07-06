@@ -1,88 +1,116 @@
-<h1 align="center">🎭 SaunK | Digital Hustler</h1>
+<h1 align="center">👋 Fala, eu sou o Samuel</h1>
 
 <p align="center">
-  <em>Coding like a street samurai, hacking the matrix.</em><br/>
-  <em>Café, código e caos controlado (quase sempre).</em><br/>
-  <em>Full-stack em evolução • Dark mode only 😎</em>
-</p>
-
----
-
-## 🔥 Tech Skills (hands-on)
-> Nada de teoria demais — isso aqui é stack que eu realmente uso nos projetos.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,tailwind,nodejs,nextjs&theme=dark&perline=6">
-</p>
-
----
-
-## 🕶️ GitHub Energy
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SaunKiziN&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D">
+  <strong>SaunK | Desenvolvedor Web em formação</strong><br/>
+  Landing Pages • Sites Institucionais • Presença Digital<br/>
+  Criando interfaces simples, funcionais e bem apresentadas.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaunKiziN&layout=compact&theme=vision-friendly-dark&hide_border=true">
+  <a href="https://saunk-void-linktree.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/SAUNK%20VOID-000000?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  <a href="mailto:samuberretta.biz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🎥 Featured Work
+## Sobre mim
 
-🚀 **SAUNK VOID Linktree**  
-Interface minimalista P&B com vibe espacial, centralizando todos os links do meu universo.  
-🔗 [Live](https://saunk-void-linktree.vercel.app/) • 💾 [Repo](https://github.com/SaunKiziN/saunkVOID-linktree)
+Sou desenvolvedor web em formação, com foco na criação de **landing pages**, **sites institucionais** e soluções simples de **presença digital** para pequenos negócios, criadores e projetos independentes.
 
-🧩 **Login Screen (React)**  
-Tela de login minimalista com animações suaves e UI clean feita com React.  
-🔗 [Live](https://login-screen-react-saunkizins-projects.vercel.app/) • 💾 [Repo](https://github.com/SaunKiziN/login-screen-react)
+Tenho aprendido na prática, desenvolvendo projetos próprios, estudando front-end e usando ferramentas modernas de design, desenvolvimento e IA para acelerar o processo de criação.
 
-🌑 **Dark Ember — Tema para VS Code**  
-Tema escuro autoral com vibe espacial minimalista, ideal para quem codifica em modo noturno.  
-🛒 [Marketplace](https://marketplace.visualstudio.com/items?itemName=SaunKiziN.dark-ember) • 💾 [Repo](https://github.com/SaunKiziN/dark-ember-theme)
+Gosto de construir interfaces com boa apresentação visual, organização clara e foco no usuário — sem complicar o que precisa ser simples.
 
 ---
 
-## 💀 HACK THE SYSTEM
-<p align="center">
-  <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif?cid=ecf05e47lhcuk93pd8x4w3l63rp9xq1uyi7pb9lp0c8ilviv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500">
-</p>
+## Tecnologias e ferramentas
 
 <p align="center">
-  💀 <strong>"Code hard or die trying."</strong><br/>
-  💻 Digital Warfare | Hustle & Grind
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,python,php,git,github,figma,vercel&theme=dark&perline=7" />
 </p>
 
-> ⚠️ Este perfil foi projetado para o modo escuro.  
-> Se você estiver usando modo claro, você tá usando errado.
+Atualmente estudo e utilizo:
+
+* HTML, CSS e JavaScript
+* React e Next.js
+* Tailwind CSS
+* Git e GitHub
+* Figma
+* Vercel
+* Ferramentas de IA para apoio em desenvolvimento, revisão e organização
 
 ---
 
-🌍 **Find Me Everywhere**
+## Projetos em destaque
 
-<p align="center"> 
-  <a href="https://saunk-void-linktree.vercel.app/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-SAUNK%20VOID-000000?style=for-the-badge&logo=linktree&logoColor=white"> 
-  </a> 
-</p>
+### 🚀 SaunK Void Linktree
+
+Página de links criada para centralizar redes, apoios e canais relacionados ao meu conteúdo como criador.
+
+**Foco do projeto:**
+Identidade visual, responsividade, organização de links e publicação online.
+
+🔗 [Live](https://saunk-void-linktree.vercel.app/) • 💾 [Repositório](https://github.com/SaunKiziN/saunkVOID-linktree)
 
 ---
 
-## 👾 Visitors Counter
+### 🧩 Login Screen — React UI
+
+Interface de login desenvolvida em React, com foco em visual limpo, animações suaves e experiência de usuário.
+
+**Foco do projeto:**
+Componentização, layout responsivo e construção de interface.
+
+🔗 [Live](https://login-screen-react-saunkizins-projects.vercel.app/) • 💾 [Repositório](https://github.com/SaunKiziN/login-screen-react)
+
+> Observação: este projeto é uma interface/protótipo front-end. Não representa um sistema completo de autenticação com banco de dados.
+
+---
+
+### 🌑 Dark Ember — Tema para VS Code
+
+Tema escuro autoral para VS Code, criado com estética minimalista e foco em conforto visual para programação em modo noturno.
+
+**Foco do projeto:**
+Identidade visual, personalização de ambiente de desenvolvimento e publicação no marketplace.
+
+🛒 [Marketplace](https://marketplace.visualstudio.com/items?itemName=SaunKiziN.dark-ember) • 💾 [Repositório](https://github.com/SaunKiziN/dark-ember-theme)
+
+---
+
+## No que estou focado agora
+
+Atualmente estou evoluindo em:
+
+* Desenvolvimento front-end
+* Criação de landing pages
+* Sites institucionais
+* Design aplicado à web
+* Presença digital para pequenos negócios
+* Organização de projetos com GitHub
+* Publicação de projetos com Vercel
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaunKiziN&label=VISITORS&color=000000&style=for-the-badge">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaunKiziN&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SaunKiziN&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
 
-## 🏴 Final Words
+## Contato
 
-> "Código sem café é como um beat sem 808s." ☕🎧  
-> Eu não escrevo código — eu forço a máquina a obedecer.
+Para projetos, freelas, collabs ou troca de ideia profissional:
 
----
-
-### 📬 Contato
-
-> Para freelas, collabs ou projetos sérios: **samuberretta.biz@gmail.com**  
+**E-mail:** [samuberretta.biz@gmail.com](mailto:samuberretta.biz@gmail.com)
+**LinkedIn:** coloque seu link aqui
