@@ -10,6 +10,9 @@
   <a href="https://saunk-void-linktree.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/SAUNK%20VOID-000000?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/samuel-berretta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:samuberretta.biz@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -112,5 +115,5 @@ Atualmente estou evoluindo em:
 
 Para projetos, freelas, collabs ou troca de ideia profissional:
 
-**E-mail:** [samuberretta.biz@gmail.com](mailto:samuberretta.biz@gmail.com)
-**LinkedIn:** [www.linkedin.com/in/samuel-berretta]
+**E-mail:** [samuberretta.biz@gmail.com](mailto:samuberretta.biz@gmail.com)<br/>
+**LinkedIn:** [linkedin.com/in/samuel-berretta](https://www.linkedin.com/in/samuel-berretta)
