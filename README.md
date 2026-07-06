@@ -113,4 +113,4 @@ Atualmente estou evoluindo em:
 Para projetos, freelas, collabs ou troca de ideia profissional:
 
 **E-mail:** [samuberretta.biz@gmail.com](mailto:samuberretta.biz@gmail.com)
-**LinkedIn:** coloque seu link aqui
+**LinkedIn:** [www.linkedin.com/in/samuel-berretta]
