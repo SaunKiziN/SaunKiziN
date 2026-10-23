@@ -83,9 +83,9 @@ O projeto foi empacotado, documentado e publicado oficialmente no **Visual Studi
 
 ### 🔗 SaunK VOID
 
-Hub pessoal criado para centralizar meus links, plataformas e presença online.
+Hub pessoal criado para centralizar meus links, plataformas e presença online.  
 
-Desenvolvido com **Next.js, React e TypeScript**, com publicação pela Vercel. O projeto também serve como base para a evolução do meu futuro portfólio pessoal.
+Desenvolvido com Next.js, React e TypeScript, com publicação pela Vercel. O projeto reúne em um único lugar meus principais canais, redes sociais e plataformas.
 
 `Next.js` `React` `TypeScript` `Vercel`
 
