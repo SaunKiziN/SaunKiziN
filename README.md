@@ -2,125 +2,133 @@
 
 # Samuel Berretta
 
-### Web Developer · Product-minded Builder
+### Desenvolvedor Web · Aplicações & Produtos Digitais
 
 **React · Next.js · TypeScript · Supabase**
 
-I build practical web products, interfaces and digital experiences — with a focus on clean UI, useful solutions and shipping things that actually work.
+Construo aplicações web, interfaces e produtos digitais com foco em **clareza, experiência de uso e soluções que saem do papel**.
 
-<sub>also known as <strong>SaunK</strong> 👾 · based in Brazil 🇧🇷</sub>
+<sub>também conhecido como <strong>SaunK</strong> 👾</sub>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/samuel-berretta">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:samuberretta.biz@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://saunk-void-linktree.vercel.app">
-  <img src="https://img.shields.io/badge/SaunK%20VOID-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAUNK%20VOID-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mim
 
-I'm a web developer focused on building **web applications, interfaces and digital products**.
+Sou desenvolvedor web com foco na construção de **aplicações, interfaces e produtos digitais**.
 
-Most of my experience comes from learning by building: creating personal projects, working on real-world applications, collaborating through Git and GitHub, deploying products and iterating on them as requirements evolve.
+Minha experiência vem principalmente da prática: desenvolvendo projetos próprios e colaborativos, estruturando interfaces, trabalhando com dados, versionamento, deploy e evoluindo aplicações conforme novas necessidades aparecem.
 
-I enjoy working across the product flow — from the initial idea and interface to implementation, version control and deployment.
+Gosto de transformar uma ideia em algo utilizável — pensando não só no código, mas também em **organização, experiência do usuário e manutenção do projeto**.
 
-My current workflow combines traditional development with **AI-assisted tools** for implementation, debugging, review and documentation, while keeping architecture and product decisions intentional.
+No desenvolvimento, utilizo Git e GitHub como parte do fluxo de trabalho e ferramentas de IA como apoio para implementação, investigação de problemas, revisão e documentação.
 
 ---
 
-## 🧰 Stack & tools
+## 🧰 Tecnologias & ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,supabase,nodejs,git,github,vercel,figma&theme=dark&perline=11" />
 </p>
 
-**Core:** TypeScript · JavaScript · React · Next.js · Tailwind CSS  
-**Platform & workflow:** Supabase · Git · GitHub · Vercel · Figma
+**Stack principal:** TypeScript · JavaScript · React · Next.js · Tailwind CSS  
+**Ecossistema:** Supabase · Node.js · Git · GitHub · Vercel · Figma
 
-I've also worked with technologies such as **Bun, Tauri, SQLite, Drizzle, tRPC and mediasoup** through specific projects.
+Também já trabalhei com tecnologias como **Bun, Tauri, SQLite, Drizzle, tRPC e mediasoup** em projetos específicos.
 
 ---
 
-## 🚀 Selected work
+## 🚀 Projetos em destaque
 
 ### 🔊 VOXEN
 
-Lightweight communication platform for small groups, with **voice channels, persistent chat, screen sharing, roles and permissions**.
+Plataforma de comunicação voltada para pequenos grupos, com **canais de voz, chat persistente, compartilhamento de tela, convites, cargos e permissões**.
 
-Built as a desktop-first application on top of the open-source Sharkord codebase, with its original attribution and licensing preserved.
+O projeto possui aplicação desktop e servidor próprio, trabalhando com comunicação em tempo real e mídia.
 
-`TypeScript` · `React` · `Vite` · `Tauri` · `Bun` · `tRPC` · `mediasoup` · `SQLite`
+Foi desenvolvido a partir da base open source do **Sharkord**, mantendo sua atribuição e licenciamento originais.
 
-**Status:** Alpha · Development currently paused
+`TypeScript` `React` `Vite` `Tauri` `Bun` `tRPC` `mediasoup` `SQLite`
 
-[View repository →](https://github.com/SaunKiziN/voxen)
+**Status:** Alpha · desenvolvimento atualmente pausado
+
+[Ver repositório →](https://github.com/SaunKiziN/voxen)
 
 ---
 
 ### 🌑 Dark Ember
 
-A custom dark theme for **Visual Studio Code**, designed around an ember-inspired red and yellow palette and published publicly on the VS Code Marketplace.
+Tema escuro autoral para **Visual Studio Code**, criado com uma identidade visual baseada em tons escuros, vermelho e amarelo.
 
-`VS Code` · `Theme Development` · `Open Source`
+O projeto foi empacotado, documentado e publicado oficialmente no **Visual Studio Marketplace**, onde pode ser instalado por qualquer usuário do VS Code.
 
-[VS Marketplace →](https://marketplace.visualstudio.com/items?itemName=SaunKiziN.dark-ember) · [Repository →](https://github.com/SaunKiziN/Dark-Ember-Theme)
+`VS Code` `Theme Development` `Open Source`
+
+[VS Marketplace →](https://marketplace.visualstudio.com/items?itemName=SaunKiziN.dark-ember) · [Repositório →](https://github.com/SaunKiziN/Dark-Ember-Theme)
 
 ---
 
 ### 🔗 SaunK VOID
 
-My personal web hub for centralizing links, platforms and online presence.
+Hub pessoal criado para centralizar meus links, plataformas e presença online.
 
-Built with **Next.js and TypeScript** and deployed with Vercel. The project is also serving as the foundation for a broader personal portfolio experience.
+Desenvolvido com **Next.js, React e TypeScript**, com publicação pela Vercel. O projeto também serve como base para a evolução do meu futuro portfólio pessoal.
 
-`Next.js` · `React` · `TypeScript` · `Vercel`
+`Next.js` `React` `TypeScript` `Vercel`
 
-[Live →](https://saunk-void-linktree.vercel.app) · [Repository →](https://github.com/SaunKiziN/saunkVOID-linktree)
-
----
-
-### 🧪 Earlier work
-
-**Login Screen — React UI** was one of my first React/Next.js projects, built to practice componentization, responsive UI and form validation.
-
-[Live →](https://login-screen-react-mauve.vercel.app) · [Repository →](https://github.com/SaunKiziN/Login-Screen-REACT)
+[Projeto online →](https://saunk-void-linktree.vercel.app) · [Repositório →](https://github.com/SaunKiziN/saunkVOID-linktree)
 
 ---
 
-## 🎯 Current focus
+## 🧪 Projeto de aprendizado
 
-I'm currently focused on:
+### Login Screen — React UI
 
-- Building real-world web applications and digital products
-- Improving my React, Next.js and TypeScript workflow
-- Working with Supabase and modern application architecture
-- Organizing development through Git, branches and pull requests
-- Improving product documentation and project presentation
-- Building and collaborating on projects through **Solvy Digital**
+Um dos meus primeiros projetos com React e Next.js, criado para praticar **componentização, responsividade, validação de formulários e organização de interfaces**.
+
+Hoje ele funciona também como registro da minha evolução no desenvolvimento front-end.
+
+[Projeto online →](https://login-screen-react-mauve.vercel.app) · [Repositório →](https://github.com/SaunKiziN/Login-Screen-REACT)
 
 ---
 
-## 🤝 Let's connect
+## 🎯 Atualmente
 
-I'm open to **projects, collaborations and professional opportunities**.
+Meu foco atual está em:
 
-**Email:** [samuberretta.biz@gmail.com](mailto:samuberretta.biz@gmail.com)  
+- desenvolvimento de aplicações web com **React, Next.js e TypeScript**;
+- integração de aplicações com **Supabase** e serviços externos;
+- arquitetura e organização de projetos;
+- fluxos de trabalho com **Git, branches e pull requests**;
+- documentação e apresentação de projetos;
+- desenvolvimento de produtos e projetos colaborativos pela **Solvy Digital**.
+
+---
+
+## 🤝 Contato
+
+Estou aberto a **projetos, colaborações e oportunidades profissionais**.
+
+**E-mail:** [samuberretta.biz@gmail.com](mailto:samuberretta.biz@gmail.com)  
 **LinkedIn:** [linkedin.com/in/samuel-berretta](https://www.linkedin.com/in/samuel-berretta)
 
 <div align="center">
 
 <br/>
 
-**Build useful things. Keep improving them.**
+**Construir. Testar. Melhorar.**
 
 </div>
